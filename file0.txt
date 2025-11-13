@@ -1,3 +1,4 @@
 line1
 git lab2 fetch and rebaseing
 git lab3 remote machin file changes
+git lab3//local change
